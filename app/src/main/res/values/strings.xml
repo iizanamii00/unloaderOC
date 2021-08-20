@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">UnloaderOC</string>
+    <string name="usecase_prompt">Usecase</string>
+    <string name="platform_prompt">Platform</string>
+    <string name="budget_prompt">Budget</string>
+    <string-array name="usecase_arrays">
+        <item>Gaming</item>
+        <item>Video/Photo editing</item>
+        <item>Multimedia Consumption</item>
+        <item>Office Work</item>
+    </string-array>
+
+    <string-array name="platform_arrays">
+        <item>Intel</item>
+        <item>AMD</item>
+    </string-array>
+
+    <string-array name="budget_arrays">
+        <item>30000</item>
+        <item>50000</item>
+        <item>75000</item>
+        <item>100000</item>
+        <item>150000</item>
+    </string-array>
+
+</resources>
